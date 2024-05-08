@@ -1,0 +1,26 @@
+header{
+    position: absolute;
+    top: 0;
+    background-color: #272783;
+    width: 99%;
+}
+body{
+    background-color: rgb(12, 12, 73);
+}
+h1{
+    color: white;
+    text-align: center;
+}
+footer{
+    bottom: 0;
+    position: absolute;
+    background-color: #272783;
+    width: 99%;
+    height: 5%;
+    text-align: center;
+    color: white;
+    font-size: x-small;
+}
+.encabezado{
+    background-color: aliceblue;
+}
