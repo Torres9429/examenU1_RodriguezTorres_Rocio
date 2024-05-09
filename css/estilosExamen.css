@@ -6,10 +6,14 @@ header{
 }
 body{
     background-color: rgb(12, 12, 73);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h1{
     color: white;
     text-align: center;
+}
+.celdaImg{
+    background-color: transparent;
 }
 footer{
     bottom: 0;
@@ -21,6 +25,11 @@ footer{
     color: white;
     font-size: x-small;
 }
-.encabezado{
+.tablaEncabezado{
+    margin-top: 10%;
     background-color: aliceblue;
+    width: 70%;
+}
+.encabezado{
+    font-size: x-large;
 }
